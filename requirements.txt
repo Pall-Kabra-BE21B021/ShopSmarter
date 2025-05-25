@@ -1,0 +1,6 @@
+flask
+flask-cors
+numpy
+torch
+Pillow
+clip-by-openai
